@@ -27,38 +27,37 @@ body {
   background-repeat: no-repeat;
   color: #fff;
   text-align: center;
-  font-size: 18px;
   font-family: 'open-sans-light';
   font-weight: 400;
 }
 #mobile-app .app-container {
   margin: 0 auto;
   max-width: 400px;
-  padding: 80px 20px;
+  padding: 50px 20px;
 }
 #mobile-app .app-container .logo-img {
-  width: 180px;
+  width: 160px;
   height: 50px;
   margin: 0 auto;
-  margin-bottom: 80px;
+  margin-bottom: 12%;
   background-image: url("../img/logo.png");
   background-size: contain;
   background-repeat: no-repeat;
 }
 #mobile-app .app-container .heading h1 {
-  font-size: 32px;
+  font-size: 30px;
   font-weight: 500;
 }
 #mobile-app .app-container .heading p {
-  font-size: 20px;
-  line-height: 28px;
+  font-size: 18px;
+  line-height: 26px;
 }
 #mobile-app .app-container .actions {
   position: absolute;
   bottom: 0;
   left: 0;
   width: 100%;
-  margin-bottom: 100px;
+  margin-bottom: 40px;
   font-size: 14px;
   font-weight: 600;
 }
@@ -68,7 +67,7 @@ body {
 }
 #mobile-app .app-container .actions .btn-primary {
   display: block;
-  margin: 20px auto;
+  margin: 20px auto 10px auto;
   padding: 15px 20px;
   max-width: 240px;
   border-radius: 3px;
